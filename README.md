@@ -1,1 +1,1 @@
-https://github.com/NickkoUA/Kelvin-portfolio.git
+https://nickkoua.github.io/Kelvin-portfolio/
